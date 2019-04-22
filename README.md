@@ -1,5 +1,5 @@
-Passivhaus Pathfinder Analyser for the southern hemisphere
-==========================================================
+Passivhaus Pathfinder tool for the southern hemisphere
+======================================================
 
 A Solar Pathfinder device can take out all of the guesswork in
 estimating shading reduction factors for windows and opaque building

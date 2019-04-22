@@ -1,13 +1,13 @@
 Passivhaus Pathfinder Analyser for the southern hemisphere
 ==========================================================
 
+![Solar Pathfinder
+image](https://www.solarpathfinder.com/images/spf/works/dome_reflect.jpg?classes=left)
 A Solar Pathfinder device can take out all of the guesswork in
 estimating shading reduction factors for windows and opaque building
 surfaces in Passive Houses. These reduction factors can then entered
 straight into PHPP.
 
-![Solar Pathfinder
-image](https://www.solarpathfinder.com/images/spf/works/dome_reflect.jpg?classes=left)
 The Excel spreadsheet in this repository is a modified version of the
 spreadsheet supplied by the [Passive House Institute
 US](http://www.phius.org/). This modified version includes the sunpath

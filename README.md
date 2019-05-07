@@ -9,7 +9,7 @@ factors can then be entered directly into PHPP.
 ![Solar Pathfinder image](https://www.solarpathfinder.com/images/spf/works/dome_reflect.jpg)
 
 The Excel spreadsheet in this repository is a modified version of the
-spreadsheet supplied by the [Passive House Institute
+spreadsheet produced by the [Passive House Institute
 US](http://www.phius.org/). This modified version includes the sunpath
 diagram data for the southern hemisphere. Thank you to [The
 SolarPathfinder Company](https://www.solarpathfinder.com) for
